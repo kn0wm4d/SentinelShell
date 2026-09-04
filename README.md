@@ -8,7 +8,11 @@ The `sentineld-shell` XPC service (`com.sentinelone.sentineld-shell`) accepts sh
 
 ## Demo
 
-<video src="https://media.githubusercontent.com/media/merabytes/SentinelShell/main/demo.mov" controls width="100%"></video>
+![SentinelShell demo](demo.gif)
+
+Full recording (105s): **[demo.mov](demo.mov)** — opens with GitHub's native player on the file page.
+
+> GitHub READMEs don't inline-play repo videos (including LFS). The GIF above is a preview; the full `.mov` is in the repo for download/playback.
 
 ---
 
