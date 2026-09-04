@@ -6,6 +6,10 @@ The `sentineld-shell` XPC service (`com.sentinelone.sentineld-shell`) accepts sh
 
 > **Requires SIP disabled** (or a bundle binary without hardened runtime). Check with `csrutil status`.
 
+## Demo
+
+<video src="https://media.githubusercontent.com/media/merabytes/SentinelShell/main/demo.mov" controls width="100%"></video>
+
 ---
 
 ## Requirements
